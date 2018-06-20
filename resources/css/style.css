@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-family: veranda;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: aquamarine;
+  font-size: 16x;
+}
+h2 {
+  font-family: veranda;
+  font-weight: 300x;
+  font-size: 42x;
+  color: white;
+}
+.logo {
+  text-align: right;
+  color: gray;
+}
+p {
+  font-family: veranda;
+  font-size: 21px;
+  color: gray;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
