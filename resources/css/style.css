@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 h1 {
-  font-family: veranda;
+  font-family: verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -11,12 +11,12 @@ h1 {
 }
 h3 {
   color: aquamarine;
-  font-size: 16x;
+  font-size: 16px;
 }
 h2 {
-  font-family: veranda;
-  font-weight: 300x;
-  font-size: 42x;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
   color: white;
 }
 .logo {
@@ -24,7 +24,7 @@ h2 {
   color: gray;
 }
 p {
-  font-family: veranda;
+  font-family: verdana;
   font-size: 21px;
   color: gray;
 }
